@@ -11,4 +11,3 @@ I am a remote SAP IT Expert, project team lead and agile evangelist.
 [![YouTube channel](https://img.shields.io/badge/Youtube-channel-red?style=flat&logo=youtube)](https://www.youtube.com/channel/UCZWBJMMn4vLZc4nZiKbOD1g/about?view_as=subscriber)
 [![Telegram channel](https://img.shields.io/badge/Telegram-channel-yellow?style=flat&logo=telegram)](https://t.me/budni_sapera)
 [![Z-Namespace](https://img.shields.io/badge/z--namespace-podcast-green?style=flat&logo=google%20podcasts)](https://ilyakaznacheev.github.io/z-namespace/)
-[![Actitivy log](https://img.shields.io/badge/log-activity-lightgrey?style=flat)](https://ilyakaznacheev.github.io/public/)
