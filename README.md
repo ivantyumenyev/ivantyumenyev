@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-ping-%232CA5E0?style=flat&logo=telegram)](https://t.me/svirinstel)
 [![CV](https://img.shields.io/badge/CV-hire-success?style=flat)](https://docs.google.com/document/d/1nJzzvulJRePwGqaLbXVPYlkB5NdiO-YX2eBnCjYqClM/edit?usp=sharing)
 
-I am a remote SAP IT Expert, project team lead and agile evangelist.
+I am a remote SAP IT Expert (OO ABAP, oData, architecture, enhance standard), project team lead and agile evangelist.
 
 🥤My hobbies:
 
