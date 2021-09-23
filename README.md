@@ -6,7 +6,7 @@
 
 I am a remote SAP IT Expert (OO ABAP, oData, architecture, enhance standard), project team lead and agile evangelist.
 
-🥤My hobbies:
+🥤 My hobbies:
 
 [![YouTube channel](https://img.shields.io/badge/Youtube-channel-red?style=flat&logo=youtube)](https://www.youtube.com/channel/UCZWBJMMn4vLZc4nZiKbOD1g/featured)
 [![Telegram channel](https://img.shields.io/badge/Telegram-channel-yellow?style=flat&logo=telegram)](https://t.me/budni_sapera)
