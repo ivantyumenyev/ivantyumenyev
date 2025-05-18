@@ -3,24 +3,43 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-%230e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/ivan-tyumenyev)
 [![Telegram](https://img.shields.io/badge/Telegram-ping-%232CA5E0?style=flat&logo=telegram)](https://t.me/ivan_tyumenyev)
 
-Hi, I'm Ivan Tyumenyev. I'm co-founder and CEO of [Unrealos](https://unrealos.com/), a startup studio specializing in AI and the real estate industry. I've launched five startups in the last five years.
-Our mission is to empower real estate professionals and firms by developing cutting-edge tools that enhance efficiency and innovation.
+Hi, I’m Ivan — Gen AI Developer & Startups Founder. I help founders, marketers, and operators launch real GPT-powered systems that work: smart, scalable, and fast. I build custom AI agents using LangChain, Python, and the best of today’s LLM stack.
 
-Our products:<br>
-- https://investorsplaybook.com/<br>
-- https://caribbeanrealestatemls.com/<br>
+## ✅ What Can I Build for You
+I design and implement production-ready AI agents and GPT-powered systems, end-to-end — from architecture to automation.
 
-## What We Offer:
-🏡 We provide bespoke AI-driven solutions and web services that revolutionize how real estate businesses operate. From real estate marketplaces to investment portals, our studio develops technologies that transform client engagements and backend operations. Our notable projects include collaborations with The Strathcona Group, Broker's Playbook Real Estate, REC Canada, and Merged Media.
+## Custom AI Agents with LangChain
+• Multi-agent setups, tool use, memory, RAG, workflows
+• Python-built with full control, or n8n for no-code orchestration
+• Clean logic, retry flows, fallback, and production readiness
 
-## Professional Background:
-🌟 With over 12 years of experience as a CEO and Product / Project Manager, I have led the development and successful implementation of 27 large-scale web projects across various industries, including real estate. My expertise lies in marrying deep tech knowledge with strategic business insights to deliver impactful technological innovations.
+## LLM-Powered Bots for Business
+• Sales agents (lead scoring, outreach generation)
+• Support bots (GPT + knowledgebase, RAG-enhanced)
+• Internal assistants (HR, SOP, onboarding, search)
 
-## Key Achievements:
-- 📈 Agile Implementation: Mastered the use of Scrum and Kanban to enhance project delivery and team productivity.
-- 🤝 Leadership: Managed up to 5 agile development teams simultaneously, coordinating 36 professionals to maximize project success.
-- 🚀 Technological Innovation: Pioneered advanced solutions using technologies like GPT and Langchain, significantly elevating market presence.
-- 🔗 Strategic Integration: Combined CEO-level insights with technical acumen to drive growth and expansion in North America and Europe.
-- 💡 Team Mentoring: Cultivated high-performance teams focused on continuous learning and cutting-edge technology.
+## AI Integrations into Existing Systems
+• CRM bots (Zoho, Notion, Airtable, Google Sheets)
+• External API connections and webhooks
+• Slack, email, calendar, Notion, and more
 
-At Unrealos, we are committed to aligning our tech capabilities with your business goals to foster sustainable growth and innovation in the real estate industry. Let's connect and explore how we can bring your next project to life with our specialized services.
+## Special Use Cases
+• GPT-based comment and post writers (e.g. for LinkedIn)
+• Daily insight bots (market trends, TikTok, Reddit)
+• Content repurposing and briefing tools for teams
+
+## Vector Database & RAG Systems
+• Supabase, Pinecone, Chroma setup
+• File loaders, chunking, embedding, and semantic search
+• Integrated with LangChain pipelines and GPT calls
+
+## 🧰 Tools I use:
+LangChain • Python • GPT-4 / GPT-4o • n8n • Supabase • Zapier • Airtable • Notion • Zoho • Perplexity
+
+⸻
+
+I’m not just an engineer — I’m a founder and entrepreneur.
+I’ve launched startups, shipped SaaS platforms, and built AI systems that save real time, generate revenue, and scale.
+I work fast, communicate clearly, and focus on what matters: making your idea real.
+
+📩 Let’s talk — I’m here to help you build your AI system from zero to working in days, not months.
